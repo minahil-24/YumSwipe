@@ -99,7 +99,7 @@ Follow these steps to run the app locally:
 
 1️⃣ Clone the Repository
 git clone https://github.com/minahil-24/YumSwipe.git
-cd YumSwipe
+cd yumswipe\flutter_application_1> 
 
 2️⃣ Install Dependencies
 flutter pub get
